@@ -1,6 +1,4 @@
-
-Bookin
-bus-booking-demo.zip
+bus-booking.zip
 ├─ backend/
 │  ├─ package.json
 │  └─ server.js
@@ -17,4 +15,3 @@ bus-booking-demo.zip
          ├─ BusList.js
          ├─ SeatMap.js
          └─ BookingForm.js
-         
